@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movies>
+	<movie id="4134" year="1995">
+		<title>Хакеры</title>
+		<actors>
+			<actor>
+				<firstname>Джонни</firstname>
+				<lastname>Миллер</lastname>
+			</actor>
+			<actor>
+				<firstname>Анджелина</firstname>
+				<lastname>Джоли</lastname>
+			</actor>
+		</actors>
+		<director>
+			<firstname>Иэн</firstname>
+			<lastname>Софтли</lastname>
+		</director>
+	</movie>
+	<movie id="6132" year="1995">
+		<title>Сеть</title>
+		<actors>
+			<actor>
+				<firstname>Сандра</firstname>
+				<lastname>Буллок</lastname>
+			</actor>
+		</actors>
+		<director>
+			<firstname>Ирвин</firstname>
+			<lastname>Уинклер</lastname>
+		</director>
+	</movie>
+	<movie id="3800" year="1995">
+		<title>Джонни Мнемоник</title>
+		<actors>
+			<actor>
+				<firstname>Киану</firstname>
+				<lastname>Ривз</lastname>
+			</actor>
+			<actor>
+				<firstname>Такеши</firstname>
+				<lastname>Китано</lastname>
+			</actor>
+			<actor>
+				<firstname>Дольф</firstname>
+				<lastname>Лундгрен</lastname>
+			</actor>
+		</actors>
+		<director>
+			<firstname>Роберт</firstname>
+			<lastname>Лонго</lastname>
+		</director>
+	</movie>
+</movies>
