@@ -17,6 +17,9 @@
 ## Литература
 XML Essentials  
 https://www.w3.org/standards/xml/core  
+JSON  
+https://www.json.org/json-ru.html  
 Common Format and MIME Type for Comma-Separated Values (CSV) Files    
 https://www.rfc-editor.org/rfc/rfc4180   
-
+Data Formats  
+https://www.ksi.mff.cuni.cz/~svoboda/courses/192-MDK/lectures/MDK-Lecture-02-Formats.pdf
