@@ -3,7 +3,7 @@ msg <- readLines('classwork3/putin-2012.txt')
 #посчитаем кол-во символов
 length(msg)
 l<-lapply(msg, nchar)
-Reduce(sum,l)
+Reduce(sum, l)
 
 #можно не заморачиваться
 txt <- paste(msg, collapse = " ")
