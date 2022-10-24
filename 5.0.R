@@ -83,3 +83,8 @@ f<-starwars %>%
   filter(!is.na(height))
 plot(f$height)
 mean(f$height)
+
+f %>%   filter(row_number() %in% c(1, 2, 4))
+
+
+
